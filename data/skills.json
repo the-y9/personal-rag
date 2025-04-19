@@ -1,0 +1,31 @@
+[
+    { "name": "tensorflow", "level": "elementary", "category": "framework", "tags": ["ai_ml", "data_science", "framework"] },
+    { "name": "opencv", "level": "elementary", "category": "tool", "tags": ["ai_ml", "data_science", "computer_vision"] },
+    { "name": "php", "level": "elementary", "category": "language", "tags": ["developer", "backend", "language"] },
+    { "name": "java", "level": "elementary", "category": "language", "tags": ["developer", "language", "backend"] },
+    { "name": "excel", "level": "elementary", "category": "tool", "tags": ["data_science", "analysis", "reporting"] },
+    { "name": "c", "level": "elementary", "category": "language", "tags": ["developer", "language", "systems_programming"] },
+  
+    { "name": "javascript", "level": "intermediate", "category": "language", "tags": ["developer", "frontend", "language"] },
+    { "name": "react.js", "level": "intermediate", "category": "framework", "tags": ["developer", "frontend", "framework"] },
+    { "name": "pytorch", "level": "intermediate", "category": "framework", "tags": ["ai_ml", "data_science", "deep_learning", "framework"] },
+    { "name": "ml", "level": "intermediate", "category": "concept", "tags": ["ai_ml", "data_science", "machine_learning"] },
+    { "name": "deep learning", "level": "intermediate", "category": "concept", "tags": ["ai_ml", "deep_learning"] },
+    { "name": "neural networks", "level": "intermediate", "category": "concept", "tags": ["ai_ml", "deep_learning", "neural_networks"] },
+    { "name": "nlp", "level": "intermediate", "category": "concept", "tags": ["ai_ml", "nlp", "language_modeling"] },
+    { "name": "huggingface", "level": "intermediate", "category": "tool", "tags": ["ai_ml", "nlp", "transformers", "data_science"] },
+    { "name": "fastapi", "level": "intermediate", "category": "framework", "tags": ["developer", "backend", "framework", "api"] },
+    { "name": "llms", "level": "intermediate", "category": "concept", "tags": ["ai_ml", "nlp", "large_language_models"] },
+  
+    { "name": "python", "level": "advanced", "category": "language", "tags": ["language", "developer", "ai_ml", "data_science", "scripting", "backend"] },
+    { "name": "html", "level": "advanced", "category": "language", "tags": ["developer", "frontend", "markup_language"] },
+    { "name": "css", "level": "advanced", "category": "language", "tags": ["developer", "frontend", "styling"] },
+    { "name": "flask", "level": "advanced", "category": "framework", "tags": ["developer", "backend", "framework", "api"] },
+    { "name": "git", "level": "advanced", "category": "tool", "tags": ["developer", "version_control", "collaboration"] },
+    { "name": "mysql", "level": "advanced", "category": "database", "tags": ["developer", "database", "sql"] },
+    { "name": "sqlite", "level": "advanced", "category": "database", "tags": ["developer", "database", "sql", "embedded_database"] },
+    { "name": "postgresql", "level": "advanced", "category": "database", "tags": ["developer", "database", "sql", "open_source"] },
+    { "name": "vue.js", "level": "advanced", "category": "framework", "tags": ["developer", "frontend", "framework"] },
+    { "name": "restapi", "level": "advanced", "category": "framework", "tags": ["developer", "backend", "api", "web_services"] }
+  ]
+  
