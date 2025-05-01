@@ -28,7 +28,7 @@ if __name__ == "__main__":
     try:
         genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
         # Example usage (replace with your actual data)
-        jd_text = "Software Engineer with 5+ years of experience in Python and Java."
+        jd_text = "Python Developer and AI Engineer"
         retrieved_chunks = [
             {"text": "I have 6 years of experience in Python."},
             {"text": "I have 4 years of experience in Java."},
@@ -36,7 +36,10 @@ if __name__ == "__main__":
         ]
 
         cover_letter = generate_cover_letter(jd_text, retrieved_chunks) # added model_name
-        print(cover_letter)
+        with open("cover_letter.txt", "w") as f:
+            f.write(cover_letter)
+        os.startfile("cover_letter.txt")
+        
     except Exception as e:
         print(f"An error occurred: {e}")
     

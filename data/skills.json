@@ -16,7 +16,13 @@
     { "name": "huggingface", "level": "intermediate", "category": "tool", "tags": ["ai_ml", "nlp", "transformers", "data_science"] },
     { "name": "fastapi", "level": "intermediate", "category": "framework", "tags": ["developer", "backend", "framework", "api"] },
     { "name": "llms", "level": "intermediate", "category": "concept", "tags": ["ai_ml", "nlp", "large_language_models"] },
-  
+    { "name": "ms sql", "level": "intermediate", "category": "database", "tags": ["developer", "database", "sql"] },
+
+    { "name": "bootstrap", "level": "advanced", "category": "framework", "tags": ["developer", "frontend", "css_framework"] },
+    { "name": "numpy", "level": "advanced", "category": "tool", "tags": ["ai_ml", "data_science", "python"] },
+    { "name": "pandas", "level": "advanced", "category": "tool", "tags": ["ai_ml", "data_science", "python"] },
+    { "name": "matplotlib", "level": "advanced", "category": "tool", "tags": ["ai_ml", "data_science", "python"] },
+    { "name": "scikit-learn", "level": "advanced", "category": "tool", "tags": ["ai_ml", "data_science", "python"] },
     { "name": "python", "level": "advanced", "category": "language", "tags": ["language", "developer", "ai_ml", "data_science", "scripting", "backend"] },
     { "name": "html", "level": "advanced", "category": "language", "tags": ["developer", "frontend", "markup_language"] },
     { "name": "css", "level": "advanced", "category": "language", "tags": ["developer", "frontend", "styling"] },
@@ -24,8 +30,7 @@
     { "name": "git", "level": "advanced", "category": "tool", "tags": ["developer", "version_control", "collaboration"] },
     { "name": "mysql", "level": "advanced", "category": "database", "tags": ["developer", "database", "sql"] },
     { "name": "sqlite", "level": "advanced", "category": "database", "tags": ["developer", "database", "sql", "embedded_database"] },
-    { "name": "postgresql", "level": "advanced", "category": "database", "tags": ["developer", "database", "sql", "open_source"] },
+    { "name": "postgresql", "level": "intermediate", "category": "database", "tags": ["developer", "database", "sql", "open_source"] },
     { "name": "vue.js", "level": "advanced", "category": "framework", "tags": ["developer", "frontend", "framework"] },
     { "name": "restapi", "level": "advanced", "category": "framework", "tags": ["developer", "backend", "api", "web_services"] }
-  ]
-  
+  ]  

@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Web OCR",
+      "url": "https://the-y9.github.io/Web-OCR/",
+      "icon": "fas fa-file-image"
+    },
+    {
+      "name": "Windows Theme Toggler",
+      "url": "https://github.com/the-y9/Mode-Toggler-in-Windows-11",
+      "icon": "fab fa-windows"
+    },
+    {
+      "name": "Youtube Playlist to CSV",
+      "url": "https://github.com/the-y9/Playlist-Video-Info",
+      "icon": "fas fa-file-csv"
+    },
+    {
+      "name": "Youtube Playlist Downloader",
+      "url": "https://github.com/the-y9/YouTube-Playlist-Downloader",
+      "icon": "fas fa-list-check"
+    },
+    {
+      "name": "Google Form Processor",
+      "url": "https://github.com/the-y9/Google-Form-Processor",
+      "icon": "fas fa-file-export"
+    }
+  ]
+  
