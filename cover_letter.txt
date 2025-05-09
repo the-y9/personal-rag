@@ -1,29 +1,22 @@
-Okay, here's a personalized and compelling cover letter based on the job description of a "Python Developer and AI Engineer" and your background, focusing on highlighting relevant skills and experience:
+Yash Mishra
+yashofc9@gmail.com
+https://the-y9.github.io
+https://github.com/the-y9
+https://www.linkedin.com/in/the-y9/
 
-**[Your Name]**
-[Your Address]
-[Your Phone Number]
-[Your Email Address]
+Dated: 2025-05-02
 
-[Date]
+Respected Hiring Team,
 
-[Hiring Manager Name (if you know it), or "Hiring Team"]
-[Company Name]
-[Company Address]
+I am writing to express my enthusiastic interest in the Junior AI/ML Engineer position at Barsys, as advertised. As a final-year student at the Indian Institute of Technology Madras, graduating in September 2025 with a BS in Data Science and Applications, I am eager to apply my skills and passion for AI to contribute to your team's mission of making artificial intelligence truly accessible and useful.
 
-**Dear [Mr./Ms./Mx. Hiring Manager Last Name (if you know it), or "Hiring Team"],**
+My academic background and hands-on experience have provided me with a strong foundation in AI/ML development. I have proficiency in Python and key libraries such as NumPy, pandas, and scikit-learn, which are essential for data preprocessing and model development. My interest in embeddings, LLMs, and vector databases aligns perfectly with the requirements of this role. For instance, in my project tracker project I used LLMs to to manage projects.
 
-I am writing to express my enthusiastic interest in the Python Developer and AI Engineer position at [Company Name], as advertised on [Platform where you saw the job posting - e.g., LinkedIn, company website].  With six years of experience in Python development and a solid foundation in web application development, I am confident that my skills and experience align perfectly with the requirements outlined in the job description.
+One project that highlights my capabilities is my work on Multi-Lingual Sentiment Analysis. This involved developing a deep learning model capable of classifying sentiment in text across 13 Indian languages, leveraging NLP techniques and tools like Meta's Llama 3 8B Instruct Model. I am also familiar with frameworks such as PyTorch and have experience with tools like Hugging Face, further enhancing my ability to contribute to the design and implementation of intelligent features. I am also familier with fastapi and flask frameworks.
 
-My background as a Python developer has provided me with extensive experience in [mention 2-3 specific Python areas you excel in - e.g., data analysis, API development, scripting, object-oriented programming].  For example, I have a strong track record of [mention a specific accomplishment related to Python. If it's AI related - emphasize it].
+I am currently working as a Developer Intern at IDEMIA, where I am developing and maintaining dynamic user interfaces using React.js and integrating FastAPI with an MS SQL database. This experience has provided me with practical exposure to full-stack systems and reinforced my understanding of software engineering best practices, which will enable me to seamlessly integrate models into production, monitor performance, and iterate on solutions in a live environment.
 
-Furthermore, my four years of experience with Java, while not directly Python, demonstrates my ability to quickly learn new languages and adapt to different development environments. This adaptability, coupled with my Python expertise, allows me to tackle complex projects and contribute effectively within a diverse technical landscape.
-
-My experience developing a large-scale web application has equipped me with a deep understanding of the challenges and best practices involved in building and maintaining robust, scalable systems. I am proficient in [mention specific technologies or methodologies used in that web application development, especially if they're relevant to AI or Python - e.g., REST APIs, microservices, database design (PostgreSQL, MySQL), agile development, CI/CD pipelines].
-
-While my resume provides further details, I am particularly excited by the opportunity to [mention something specific that excites you about the role or the company.  This shows you've done your research. For example:  "contribute to [Company Name]'s innovative work in [mention specific area of AI the company works in]", or "leverage Python for building cutting-edge AI solutions for [mention the industry the company serves]"].
-
-I am eager to learn more about this opportunity and discuss how my Python expertise and experience in web application development can contribute to [Company Name]'s success. Thank you for your time and consideration.
+Thank you for considering my application. I am excited about the opportunity to contribute to Barsys' innovative work and am eager to learn and grow alongside your experienced team. I am available for an interview at your earliest convenience.
 
 Sincerely,
-[Your Name]
+Yash Mishra

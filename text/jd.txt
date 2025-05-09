@@ -1,0 +1,90 @@
+Barsys  logo
+Barsys 
+Share
+Show more options
+Junior AI/ML Engineer
+Delhi, Delhi, India · 4 weeks ago · Over 100 people clicked apply
+
+ RemoteMatches your job preferences, workplace type is Remote.
+
+Apply
+
+Save
+Save Junior AI/ML Engineer at Barsys
+Junior AI/ML Engineer
+Barsys · Delhi, Delhi, India (Remote)
+
+Apply
+
+Save
+Save Junior AI/ML Engineer at Barsys
+Show more options
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for ₹0
+
+
+
+
+Tailor my resume to this job
+
+Am I a good fit for this job?
+
+How can I best position myself for this job?
+
+About the job
+This job is sourced from a job board. Learn More
+Location: New Delhi, India
+
+Type: Full-Time
+
+About Us
+
+We are an early-stage company building intelligent systems that bring together cutting-edge AI, real-world applications, and user-first design. Our mission is to make artificial intelligence truly accessible and useful—through products that are intuitive, responsive, and deeply impactful.
+
+As a small, high-performing team of builders, we thrive on experimentation, creative problem-solving, and rapid iteration. We move fast, learn constantly, and believe that big ideas deserve great execution.
+
+If you’re excited to contribute to a product with real-world impact—and grow alongside engineers who care deeply about code quality, creativity, and clarity—you’ll feel right at home here.
+
+The Role
+
+We’re looking for a highly motivated Junior AI/ML Engineer to join our team and help bring intelligent features to life. You’ll work side-by-side with experienced engineers and product leaders to prototype, train, and deploy AI-powered tools across our platform.
+
+This is a hands-on, high-growth opportunity for someone who’s eager to learn, experiment quickly, and contribute to the full AI/ML lifecycle—from data collection to deployment. You’ll be exposed to modern toolkits, vector databases, LLM workflows, and development approaches inspired by vibe coding—fast, intuitive, and iterative.
+
+What You’ll Do
+
+ Contribute to AI/ML Development: Support the design and implementation of models, embeddings, and search systems that power intelligent product features.
+ Work with Modern Toolkits: Gain hands-on experience with state-of-the-art ML tools and frameworks—vector databases, transformers, cloud-based inference pipelines, and more.
+ Prototype & Iterate: Help build quick, experimental prototypes using a vibe coding approach—learning through doing, testing, and improving.
+ Data & Training: Assist in collecting, cleaning, labeling, and preprocessing data for model development and fine-tuning.
+ Deploy Real Systems: Help integrate models into production, monitor performance, and iterate on solutions in a live environment.
+ Collaborate & Learn: Work closely with senior engineers to grow your skills in both machine learning and software engineering best practices.
+
+What We’re Looking For
+
+ 0–2 years of hands-on experience in AI/ML development (internships, personal projects, academic research all count).
+ Proficiency in Python, with knowledge of key libraries such as NumPy, pandas, scikit-learn, PyTorch or TensorFlow.
+ Interest in embeddings, LLMs, and vector databases—or a strong desire to learn them quickly.
+ Some exposure to cloud environments like GCP, AWS, or Azure is a plus.
+ Comfort with experimentation and iteration—you’re not afraid to try things and fail fast.
+ Strong problem-solving skills, curiosity, and a growth mindset.
+ Excellent communication skills and a collaborative attitude.
+
+Bonus Points
+
+ Experience building or contributing to side projects involving AI or data science.
+ Exposure to tools like Hugging Face, LangChain, Pinecone, or Weaviate.
+ Basic understanding of how APIs, microservices, or full-stack systems work.
+ Examples of creative problem-solving or self-initiated learning.
+
+Why Join Us
+
+ Accelerated Learning: You’ll be mentored by experienced engineers and gain exposure to the full AI/ML product lifecycle.
+ Meaningful Work: Your ideas and contributions will directly shape real products and experiences.
+ Creative Culture: We move fast, think big, and empower you to take ownership early.
+ Growth-Oriented: We’re invested in helping you become the engineer you want to be.
+ Flexible Environment: Work remotely or from our NYC hub, with the tools and autonomy to do your best work.
+
+How to Apply
+
+Send us your resume, links to any projects (GitHub, portfolio, notebooks), and a short note on why you’re excited about AI and what you hope to build. If you’ve experimented with AI models, vector databases, or vibe coding-style workflows, we’d love to hear about it.

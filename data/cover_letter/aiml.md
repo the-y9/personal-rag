@@ -11,7 +11,7 @@ Date: April 5, 2025
 
 I am writing to express my interest in the AI/ML Internship opportunity at your organization. I hold a BSc in Data Science and Programming and am currently pursuing a BS in Data Science and Applications from IIT Madras. With a strong technical foundation and a deep passion for AI and machine learning, I am eager to contribute meaningfully to your team.
 
-At present, I am interning as a developer at IDEMIA, where I work extensively with **React.js**, building dynamic and responsive UI components. My work involves implementing routing, managing application state using **Redux**, and utilizing **React hooks** to ensure seamless user experiences in complex web applications.
+At present, I am interning as a developer at IDEMIA, where I am responsible for developing and maintaining dynamic, responsive user interfaces using React.js. My work includes implementing client-side routing, managing complex application state with Redux, and leveraging React Hooks to enhance performance and user experience. Additionally, I have integrated FastAPI with an MS SQL database to enable conditional rendering of data points by joining various master tables, facilitating robust and scalable backend connectivity.
 
 My academic and personal projects have equipped me with practical experience in **Python**, **machine learning**, and **deep learning** frameworks such as **PyTorch**, with a focus on **transformer models** (HuggingFace). A few highlights include:
 

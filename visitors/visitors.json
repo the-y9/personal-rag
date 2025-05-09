@@ -1,0 +1,16 @@
+[
+    {
+        "ip": "127.0.0.1",
+        "visits": 6,
+        "last_visited": "2025-05-09T23:17:27.136881+05:30",
+        "location": "Delhi, IN",
+        "timezone": "Asia/Kolkata"
+    },
+    {
+        "ip": "152.59.68.232",
+        "visits": 1,
+        "last_visited": "2025-05-09T23:17:58.147796+05:30",
+        "location": "Delhi, IN",
+        "timezone": "Asia/Kolkata"
+    }
+]
