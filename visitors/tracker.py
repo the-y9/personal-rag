@@ -21,6 +21,7 @@ def save_data(data):
 @router.get("/log")
 async def log_visitor(request: Request):
     ip = request.headers.get("X-Forwarded-For", request.client.host)
+    ip = ip.split(",")[0].strip()
     try:
         response = requests.get(f'https://ipinfo.io/{ip}/json')
         print(1, response.json())
