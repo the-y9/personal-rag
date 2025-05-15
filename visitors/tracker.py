@@ -8,11 +8,14 @@ import requests
 router = APIRouter()
 DATA_FILE = os.path.join(os.path.dirname(__file__), "visitors.json")
 
+VISITORS_JSON_URL = "https://raw.githubusercontent.com/the-y9/personal-rag/main/visitors/visitors.json"
+
+
 def load_data():
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, "r") as f:
             return json.load(f)
-    return {}
+    return []
 
 def save_data(data):
     with open(DATA_FILE, "w") as f:
