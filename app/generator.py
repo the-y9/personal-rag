@@ -15,9 +15,9 @@ def init_model():
     genai.configure(api_key=api_key)
     model = genai.GenerativeModel("gemini-2.0-flash")
 
-    # Load static data once
+    # Personal Information: {load_json('data/about.json')}
+    # Load static data once 
     background_str = f"""
-    Personal Information: {load_json('data/about.json')}
     Education: {load_json('data/edu.json')}
     Projects: {load_json('data/projects.json')}
     Experience: {load_json('data/exp.json')}

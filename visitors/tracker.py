@@ -8,7 +8,6 @@ import requests
 router = APIRouter()
 DATA_FILE = os.path.join(os.path.dirname(__file__), "visitors.json")
 
-VISITORS_JSON_URL = "https://raw.githubusercontent.com/the-y9/personal-rag/main/visitors/visitors.json"
 
 
 def load_data():

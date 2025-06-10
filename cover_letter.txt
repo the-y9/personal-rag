@@ -1,22 +1,15 @@
-Yash Mishra
-yashofc9@gmail.com
-https://the-y9.github.io
-https://github.com/the-y9
-https://www.linkedin.com/in/the-y9/
-
-Dated: 2025-05-02
+Dated: 2025-06-07
 
 Respected Hiring Team,
 
-I am writing to express my enthusiastic interest in the Junior AI/ML Engineer position at Barsys, as advertised. As a final-year student at the Indian Institute of Technology Madras, graduating in September 2025 with a BS in Data Science and Applications, I am eager to apply my skills and passion for AI to contribute to your team's mission of making artificial intelligence truly accessible and useful.
+I am writing to express my keen interest in the Machine Learning/AI Role at CreateBytes, as advertised. As a final-year Data Science student at IIT Madras, graduating in September 2025, I am eager to apply my skills and passion for AI to build real-world solutions within a collaborative and innovative environment.
 
-My academic background and hands-on experience have provided me with a strong foundation in AI/ML development. I have proficiency in Python and key libraries such as NumPy, pandas, and scikit-learn, which are essential for data preprocessing and model development. My interest in embeddings, LLMs, and vector databases aligns perfectly with the requirements of this role. For instance, in my project tracker project I used LLMs to to manage projects.
+My academic background, coupled with hands-on project experience, has equipped me with a strong foundation in machine learning, deep learning, and NLP. Specifically, I have practical experience with ML libraries like PyTorch and Scikit-learn. For instance, I developed a "Mental Health Classifier" using Scikit-learn with ensemble methods, achieving 93.7% accuracy, showcasing my ability to build and evaluate robust classification models. Additionally, my project on "Multi-Lingual Sentiment Analysis" involved building a deep learning model using the Llama 3 8B Instruct Model to classify sentiment in text across 13 Indian languages, demonstrating my experience in NLP and handling large language models (LLMs).
 
-One project that highlights my capabilities is my work on Multi-Lingual Sentiment Analysis. This involved developing a deep learning model capable of classifying sentiment in text across 13 Indian languages, leveraging NLP techniques and tools like Meta's Llama 3 8B Instruct Model. I am also familiar with frameworks such as PyTorch and have experience with tools like Hugging Face, further enhancing my ability to contribute to the design and implementation of intelligent features. I am also familier with fastapi and flask frameworks.
+Furthermore, my proficiency extends to model development, tuning, and deployment through projects like the "FAQ Bot," a semantic search-based chatbot. This project leverages Sentence-Transformers and FastAPI for efficient question answering, highlighting my skills in NLP, Python, and API development. As a Developer Intern at IDEMIA, I utilized React.js and FastAPI with an MS SQL database to develop user interfaces and automate data updates, further solidifying my abilities in full-stack development and backend connectivity.
 
-I am currently working as a Developer Intern at IDEMIA, where I am developing and maintaining dynamic user interfaces using React.js and integrating FastAPI with an MS SQL database. This experience has provided me with practical exposure to full-stack systems and reinforced my understanding of software engineering best practices, which will enable me to seamlessly integrate models into production, monitor performance, and iterate on solutions in a live environment.
+I am particularly drawn to CreateBytes' commitment to building smart, scalable, and AI-driven solutions. I am confident that my problem-solving abilities, combined with my eagerness to learn and contribute, align perfectly with your team's values. I am open to a work-from-office role in Gurgaon and am excited about the opportunity to contribute to impactful AI applications.
 
-Thank you for considering my application. I am excited about the opportunity to contribute to Barsys' innovative work and am eager to learn and grow alongside your experienced team. I am available for an interview at your earliest convenience.
+Thank you for considering my application. I am enthusiastic about the possibility of discussing how my skills and experiences can contribute to CreateBytes. I am available for an interview at your earliest convenience.
 
 Sincerely,
-Yash Mishra
